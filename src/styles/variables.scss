@@ -1,0 +1,27 @@
+:root {
+  // Fonts
+  --primary-font-family: "JetBrains Mono", sans-serif;
+  --second-family: "Material Icons", sans-serif;
+  // Colors
+  --light-solid: #ffffff;
+  --light-transparent: rgba(#ffffff, 0.75);
+  --light-faf4f0: #faf4f0;
+  --dark-solid: #000000;
+  --dark-transparent: #000000;
+  --dark-active: #161616;
+  --dark-without-fill: rgba(#d8d8d8, 0);
+  --dark-message: #404040;
+  --gray-solid: #5f646d;
+  --gray-soft: #5f646d;
+  --outline-ae7aff: #d8d8d8;
+  --primary-primary: #ae7aff;
+  --primary-hover: #ae7aff;
+  --primary-soft: #ae7aff;
+  --green-primary: #98e9ab;
+  --green-soft: #98e9ab;
+  --yellow-primary: #fae8a4;
+  --yellow-soft: #fae8a4;
+  --red-primary: #e99898;
+  --red-soft: #e99898;
+  --color: #404040;
+}
